@@ -1,0 +1,9 @@
+/*
+A KBase module: HelloWorldAS
+*/
+
+module HelloWorldAS {
+    /*
+        Insert your typespec information here.
+    */
+};
